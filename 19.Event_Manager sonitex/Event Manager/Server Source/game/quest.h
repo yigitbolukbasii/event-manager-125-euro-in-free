@@ -1,0 +1,8 @@
+//Search:
+		QUEST_ITEM_INFORMER_EVENT,
+		
+//Add below:
+#ifdef __EVENT_MANAGER__
+		QUEST_GAME_EVENT_BEGIN,
+		QUEST_GAME_EVENT_END,
+#endif

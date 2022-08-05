@@ -1,0 +1,15 @@
+//Search:
+	GUILD_NAME_MAX_LEN		= 12,
+	
+//Add:
+	QUEST_NAME_MAX_NUM		= 64,
+	
+	
+//Add:
+enum EEmpire
+{
+	ALL_EMPIRES,
+	SHINSOO_EMPIRE,
+	CHUNJO_EMPIRE,
+	JINNO_EMPIRE
+};
